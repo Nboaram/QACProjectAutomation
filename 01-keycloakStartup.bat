@@ -1,0 +1,1 @@
+start C:\Users\nboar\Documents\keycloak-6.0.1\bin\standalone.bat
